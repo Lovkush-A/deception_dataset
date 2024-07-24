@@ -1,8 +1,7 @@
 from inspect_ai.model import ChatMessageUser, ChatMessageSystem, Model, get_model, ChatMessage, ChatMessageAssistant
 from inspect_ai.dataset import Sample, MemoryDataset
-from inspect_ai.solver import generate, Generate, Solver, TaskState, solver
+from inspect_ai.solver import Generate, Solver, TaskState, solver
 from inspect_ai.scorer import Scorer, Score, scorer, Target, mean, bootstrap_std
-from inspect_ai import Task, eval, task
 
 import re
 from typing import Literal

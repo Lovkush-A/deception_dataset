@@ -1,6 +1,6 @@
 # Deception detection dataset
 
-The primary aim of the project was to develop high quality deception datasets.
+The primary aim of the project is to develop high quality deception datasets.
 
 ## Progress
 
